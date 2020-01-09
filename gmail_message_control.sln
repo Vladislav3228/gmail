@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "gmail_message_control", "gmail_message_control\gmail_message_control.pyproj", "{E9645768-AF43-44BE-91D0-8CD6C940A4E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9645768-AF43-44BE-91D0-8CD6C940A4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9645768-AF43-44BE-91D0-8CD6C940A4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B6A043-4082-42C4-B1F0-89B41B4DDC2B}
+	EndGlobalSection
+EndGlobal
